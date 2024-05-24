@@ -8,7 +8,7 @@
 
 ## Experiência 💼
 - 📆 Três anos de experiência em desenvolvimento de software.
-- 🔧 Especializado na construção de aplicações em Python e Golang.
+- 🔧 Especializado na construção de aplicações em Golang e Pyton.
 - 🌟 Comprometido em aprimorar habilidades e contribuir para projetos inovadores.
 
 ## Áreas de Atuação 🛠️
