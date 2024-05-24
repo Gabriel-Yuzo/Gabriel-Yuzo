@@ -2,7 +2,7 @@
 ## Olá, Bem vindo(a)!!
 
 ## Sobre Mim 🚀
-👨‍💻 Software Engineer
+👨‍💻 Software Engineer 
 🎂 20 anos  
 🎓 Estudante de Sistemas de Informação na Faculdade Impacta 
 
