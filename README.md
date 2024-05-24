@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 
 <!--
@@ -15,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Yuzo)](https://github.com/Gabriel-Yuzo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Yuzo&theme=dracula)](https://github.com/Gabriel-Yuzo/github-readme-stats)
+
