@@ -6,7 +6,7 @@
 🎂 20 anos  
 🎓 Estudante de Sistemas de Informação na Faculdade Impacta 
 
-## Experiência Profissional 💼
+## Experiência 💼
 - 📆 Três anos de experiência em desenvolvimento de software.
 - 🔧 Especializado na construção de aplicações em Python e Golang.
 - 🌟 Comprometido em aprimorar habilidades e contribuir para projetos inovadores.
