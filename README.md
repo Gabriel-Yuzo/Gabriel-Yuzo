@@ -1,20 +1,28 @@
 
-## Hi there 👋
+## Olá, Bem vindo(a)!!
 
-<!--
-**Gabriel-Yuzo/Gabriel-Yuzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim 🚀
+👨‍💻 Software Engineer
+🎂 20 anos  
+🎓 Estudante de Sistemas de Informação na Faculdade Impacta 
 
-Here are some ideas to get you started:
+## Experiência Profissional 💼
+- 📆 Três anos de experiência em desenvolvimento de software.
+- 🔧 Especializado na construção de aplicações em Python e Golang.
+- 🌟 Comprometido em aprimorar habilidades e contribuir para projetos inovadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de Atuação 🛠️
+- 💻 Desenvolvimento de Software
+- 🧠 Integrando sistemas e criando funcionalidades
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Yuzo&theme=dracula)](https://github.com/Gabriel-Yuzo/github-readme-stats)
+## Tecnologias Utilizadas 🛠️
+- 🐍 Python
+- 🐿️ Golang
+- 🛢️ Bancos de dados MySQL e PostgreSQL
+
+## Contato 📫
+- 💼  [Meu perfil do LinkedIn](https://www.linkedin.com/in/gabriel-andrade-b98986211/)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Yuzo&theme=dark)](https://github.com/Gabriel-Yuzo/github-readme-stats)
 
