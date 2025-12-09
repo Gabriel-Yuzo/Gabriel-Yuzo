@@ -3,11 +3,11 @@
 
 ## Sobre Mim 🚀
 👨‍💻 Software Engineer 
-🎂 21 anos  
-🎓 Estudante de Sistemas de Informação na Faculdade Impacta 
+🎂 22 anos  
+🎓 Formado em Sistemas de Informação na Faculdade Impacta 
 
 ## Experiência 💼
-- 📆 Quatro anos de experiência em desenvolvimento de software.
+- 📆 Cinco anos de experiência em desenvolvimento de software.
 - 🔧 Especializado na construção de aplicações em Golang e Python.
 - 🌟 Comprometido em aprimorar habilidades e contribuir para projetos inovadores.
 
